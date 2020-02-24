@@ -11,6 +11,7 @@ const codes = [
   "a"
 ];
 
+<<<<<<< HEAD
 function init()
 {
   let index = 0;  
@@ -33,4 +34,11 @@ function init()
     }
     
   });
+=======
+function init() {
+  // your code here
+  //document.body.addEventListener("keydown", (event) => {});
+>>>>>>> 84548a7baa42d4a7ba2789d974cdfb4299c37509
 }
+
+init();
